@@ -1,4 +1,4 @@
-**Sales Dashboard**
+**SALES DASHBOARD**
 
 **Project Overview:**
 
